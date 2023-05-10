@@ -9,5 +9,5 @@ For more information about me, contact me srbrunomelo@gmail.com
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=srbrunomelo&show_icons=true&theme=dracula)<br/>
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=srbrunomelo&show_icons=true&theme=dracula)<br/> -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srbrunomelo&layout=compact&theme=dracula)
